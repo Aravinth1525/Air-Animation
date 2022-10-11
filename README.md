@@ -1,7 +1,6 @@
-## Air-Animation
+# Air-Animation
 
-## Preview
+### Preview
 
-https://user-images.githubusercontent.com/79074310/130051341-90bf4864-5304-42c4-ba3f-e737d5a70eb4.mov
-
+<img width="1552" alt="image" src="https://user-images.githubusercontent.com/79074310/195199165-ec84984a-9853-439a-a2c9-9a29c007f935.png">
 
